@@ -1,0 +1,31 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.rows{
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+.mavzu:active + body {
+    background-color: black
+}   
+.d-n{
+    display: none;
+}
+.six-topsh{
+    text-transform: uppercase;
+}
+.pink {
+    color: #d63384;
+}
+.flex{
+    display: flex;
+}
+.container{
+    margin-bottom: 100px;
+}
+.natija_five{
+    color: #d63384;
+
+}
